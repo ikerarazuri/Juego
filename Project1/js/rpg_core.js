@@ -3006,16 +3006,16 @@ Input.keyMapper = {
     17: 'control',  // control
     18: 'control',  // alt
     27: 'escape',   // escape
-    32: 'ok',       // space
+    69: 'ok',       // space
     33: 'pageup',   // pageup
     34: 'pagedown', // pagedown
-    37: 'left',     // left arrow
-    38: 'up',       // up arrow
-    39: 'right',    // right arrow
-    40: 'down',     // down arrow
+    65: 'left',     // left arrow
+    87: 'up',       // up arrow
+    68: 'right',    // right arrow
+    83: 'down',     // down arrow
     45: 'escape',   // insert
     81: 'pageup',   // Q
-    87: 'pagedown', // W
+    // 87: 'pagedown', // W
     88: 'escape',   // X
     90: 'ok',       // Z
     96: 'escape',   // numpad 0
