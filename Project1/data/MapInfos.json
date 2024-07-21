@@ -1,4 +1,10 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":1139,"scrollY":461}
+{"id":1,"expanded":true,"name":"CENTRAL NORTE","order":1,"parentId":0,"scrollX":1508,"scrollY":696},
+{"id":2,"expanded":false,"name":"HOSPITAL","order":3,"parentId":0,"scrollX":1518.6666666666667,"scrollY":641.3333333333334},
+{"id":3,"expanded":false,"name":"COLEGIO","order":4,"parentId":0,"scrollX":1518.6666666666667,"scrollY":641.3333333333334},
+{"id":4,"expanded":false,"name":"CARAVANA","order":2,"parentId":1,"scrollX":1518.6666666666667,"scrollY":641.3333333333334},
+{"id":5,"expanded":false,"name":"PSICOLOGO","order":5,"parentId":0,"scrollX":1518.6666666666667,"scrollY":641.3333333333334},
+{"id":6,"expanded":false,"name":"CENTRAL SUR","order":6,"parentId":0,"scrollX":1508,"scrollY":641.3333333333334},
+{"id":7,"expanded":false,"name":"CARRETERA","order":7,"parentId":0,"scrollX":1518.6666666666667,"scrollY":641.3333333333334}
 ]
